@@ -1,2 +1,5 @@
 # Prueba de ignorar la carpeta bin
 bin
+
+# No se pueden subir ningun archivo con extension .js
+*.js
