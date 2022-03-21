@@ -1,0 +1,5 @@
+# Prueba de ignorar la carpeta bin
+bin
+
+# Prueba de ignorar todos los archivos que tengan la extension .js
+*.js
